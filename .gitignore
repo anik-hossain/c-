@@ -2,3 +2,4 @@
 *.exe
 */*.exe
 */*-output.txt
+.cph
